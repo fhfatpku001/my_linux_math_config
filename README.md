@@ -1,0 +1,1 @@
+This rep consists my linux config guideline and list of packages I currently use.
