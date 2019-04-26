@@ -1,0 +1,18 @@
+* Math
+  | Package Name           | Usage                    | Installation Guide |
+  |------------------------+--------------------------+--------------------|
+  | Texlive                | tex->pdf                 |                    |
+  | Math-pix Snipping tool | img->tex-math            | snap / aur         |
+  | Inkscape               | svg svg->pdf             |                    |
+  | Tex Text               | math formula in inkscape | aur                |
+  | emacs-auctex           |                          |                    |
+  |------------------------+--------------------------+--------------------|
+  
+* Coding
+    | Package Name | Usage    | Installation Guide |
+    |--------------+----------+--------------------|
+    | g++          | compiler |                    |
+    | gdb          | dbug     |                    |
+    |              |          |                    |
+    |--------------+----------+--------------------|
+    
